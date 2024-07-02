@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+p {
+    font-weight: bold;
+}
+
+button {
+    height: 25px;
+    font-weight: bold;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+button:hover {
+    background-color: lightblue;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
